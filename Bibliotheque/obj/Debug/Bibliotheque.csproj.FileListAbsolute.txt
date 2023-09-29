@@ -1,0 +1,16 @@
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\bin\Debug\Bibliotheque.exe.config
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\bin\Debug\Bibliotheque.exe
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\bin\Debug\Bibliotheque.pdb
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\Bibliotheque.csproj.AssemblyReference.cache
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\Bibliotheque.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\MainWindow.g.cs
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\App.g.cs
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\Bibliotheque_MarkupCompile.cache
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\Bibliotheque_MarkupCompile.lref
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\MainWindow.baml
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\Bibliotheque.g.resources
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\Bibliotheque.Properties.Resources.resources
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\Bibliotheque.csproj.GenerateResource.cache
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\Bibliotheque.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\Bibliotheque.exe
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\Bibliotheque\obj\Debug\Bibliotheque.pdb

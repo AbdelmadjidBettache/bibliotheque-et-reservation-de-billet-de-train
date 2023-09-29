@@ -1,0 +1,16 @@
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\BilletDeTrain.csproj.AssemblyReference.cache
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\BilletDeTrain.csproj.SuggestedBindingRedirects.cache
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\MainWindow.g.cs
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\App.g.cs
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\BilletDeTrain_MarkupCompile.cache
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\BilletDeTrain_MarkupCompile.lref
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\bin\Debug\BilletDeTrain.exe.config
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\bin\Debug\BilletDeTrain.exe
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\bin\Debug\BilletDeTrain.pdb
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\MainWindow.baml
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\BilletDeTrain.g.resources
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\BilletDeTrain.Properties.Resources.resources
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\BilletDeTrain.csproj.GenerateResource.cache
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\BilletDeTrain.csproj.CoreCompileInputs.cache
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\BilletDeTrain.exe
+C:\Users\Bmadj\source\repos\C #2\Bibliotheque\BilletDeTrain\obj\Debug\BilletDeTrain.pdb
